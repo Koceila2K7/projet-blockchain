@@ -7,6 +7,6 @@ Création d'une blockchain dans, avec GoLang, une blockchain à base de POW (Pro
 - Courbe elliptique 
 - Cryptographie
 - Bitcoin clone 
-- 
+
 Vous pouvez trouver une image docker si vous voulez lancer le projet.
 
